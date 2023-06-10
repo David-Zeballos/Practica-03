@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "8c26cd07-2207-42e3-99db-78108d1d10fa",
+		"name": "Practica03_DavidZeballos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27148180"
+	},
+	"item": [
+		{
+			"name": "GetUser",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GetBooks",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

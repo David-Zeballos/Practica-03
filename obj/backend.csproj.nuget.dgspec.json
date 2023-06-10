@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudiante\\Documents\\Practica03_DavidZeballos\\backend\\backend.csproj": {}
+    "G:\\Programming\\Practica03_DavidZeballos\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudiante\\Documents\\Practica03_DavidZeballos\\backend\\backend.csproj": {
+    "G:\\Programming\\Practica03_DavidZeballos\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudiante\\Documents\\Practica03_DavidZeballos\\backend\\backend.csproj",
+        "projectUniqueName": "G:\\Programming\\Practica03_DavidZeballos\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\Estudiante\\Documents\\Practica03_DavidZeballos\\backend\\backend.csproj",
-        "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudiante\\Documents\\Practica03_DavidZeballos\\backend\\obj\\",
+        "projectPath": "G:\\Programming\\Practica03_DavidZeballos\\backend.csproj",
+        "packagesPath": "C:\\Users\\Zavishy\\.nuget\\packages\\",
+        "outputPath": "G:\\Programming\\Practica03_DavidZeballos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Zavishy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
