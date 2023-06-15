@@ -4,7 +4,7 @@ Este proyecto es una aplicación de gestión de bibliotecas. Proporciona una API
 
 ## Requisitos Previos
 
-Antes de comenzar, asegúrese de tener instalados los siguientes requisitos en tu sistema:
+Antes de comenzar, asegúrese de tener instalados los siguientes requisitos en su sistema:
 
 - [.NET SDK](https://dotnet.microsoft.com/download) - Versión 5.0 o superior
 - [Postman](https://www.postman.com/downloads/) - Herramienta para probar API
