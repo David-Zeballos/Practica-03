@@ -14,25 +14,25 @@ Antes de comenzar, asegúrese de tener instalados los siguientes requisitos en s
 Siga los pasos a continuación para ejecutar el programa y usar Postman correctamente:
 
 1. Clone el repositorio en su máquina local:
-git clone https://github.com/tu-usuario/tu-repositorio.git
+`git clone https://github.com/tu-usuario/tu-repositorio.git`
 
 2. Restaure las dependencias y compile el proyecto:
-dotnet restore
-dotnet build
+`dotnet restore`
+`dotnet build`
 
-3. Verificar la instalación de la herramienta de Entity Framework Core CLI:
-dotnet tool install --global dotnet-ef
-dotnet add package Microsoft.EntityFrameworkCore
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite
-dotnet add package Microsoft.EntityFrameworkCore.Tools
-dotnet add package Microsoft.EntityFrameworkCore.Design
+3. Verificar la instalación de packetes de Entity Framework Core:
+`dotnet tool install --global dotnet-ef`
+`dotnet add package Microsoft.EntityFrameworkCore`
+`dotnet add package Microsoft.EntityFrameworkCore.Sqlite`
+`dotnet add package Microsoft.EntityFrameworkCore.Tools`
+`dotnet add package Microsoft.EntityFrameworkCore.Design`
 
 4. Ejecute las migraciones de la base de datos:
-dotnet ef migrations add InitialCreate
-dotnet ef database update
+`dotnet ef migrations add InitialCreate`
+`dotnet ef database update`
 
 5. Inicie la aplicación:
-dotnet run
+`dotnet run`
 
 La aplicación se ejecutará en `http://localhost:5136`.
 
