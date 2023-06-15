@@ -14,7 +14,7 @@ Antes de comenzar, asegúrese de tener instalados los siguientes requisitos en s
 Siga los pasos a continuación para ejecutar el programa y usar Postman correctamente:
 
 1. Clone el repositorio en su máquina local:
-`git clone https://github.com/tu-usuario/tu-repositorio.git`
+`git clone https://github.com/David-Zeballos/Practica-03`
 
 2. Restaure las dependencias y compile el proyecto:
 `dotnet restore`
