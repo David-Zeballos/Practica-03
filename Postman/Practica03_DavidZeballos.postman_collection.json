@@ -10,7 +10,19 @@
 			"name": "GetUser",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5136/api/users",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5136",
+					"path": [
+						"api",
+						"users"
+					]
+				}
 			},
 			"response": []
 		},
@@ -18,7 +30,19 @@
 			"name": "GetBooks",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5136/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5136",
+					"path": [
+						"api",
+						"books"
+					]
+				}
 			},
 			"response": []
 		}

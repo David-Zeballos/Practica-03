@@ -136,3 +136,4 @@ G:\Programming\Practica03_DavidZeballos\obj\Debug\net7.0\refint\backend.dll
 G:\Programming\Practica03_DavidZeballos\obj\Debug\net7.0\backend.pdb
 G:\Programming\Practica03_DavidZeballos\obj\Debug\net7.0\backend.genruntimeconfig.cache
 G:\Programming\Practica03_DavidZeballos\obj\Debug\net7.0\ref\backend.dll
+G:\Programming\Practica03_DavidZeballos\bin\Debug\net7.0\Postman\Practica03_DavidZeballos.postman_collection.json
